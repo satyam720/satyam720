@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @satyam720
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning to develop websites that inspire
 - 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me : You can always find me at ...
 
