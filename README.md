@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Satyam Pandey</h1>
 - 🌱 I’m currently learning **React, Node, Next, graphQL, Firebase, MongoDB,Javascript**
 
-- 👨‍💻 All of my projects are available at [https://satyam720.github.io/Portfolio/](https://satyam720.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://satyam720.netlify.app/](https://satyam720.netlify.app/)
 
 - 📫 How to reach me **psatyam1618@gmail.com**
 
