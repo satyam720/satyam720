@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Satyam Pandey</h1>
-<h3 align="center">Software Engineer | JavaScript | Node.js | React | MongoDB | Performance Engineering</h3>
+<h3 align="center">Software Engineer | JavaScript | Node.js | React | MongoDB </h3>
 
 <p align="center">
 Passionate about building scalable web applications, solving algorithmic problems, and designing efficient backend systems.
