@@ -1,18 +1,164 @@
 <h1 align="center">Hi 👋, I'm Satyam Pandey</h1>
-- 🌱 I’m currently learning **React, Node, Next, graphQL, Firebase, MongoDB,Javascript**
+<h3 align="center">Software Engineer | JavaScript | Node.js | React | MongoDB | Performance Engineering</h3>
 
-- 👨‍💻 All of my projects are available at [https://satyam720.netlify.app/](https://satyam720.netlify.app/)
-
-- 📫 How to reach me **psatyam1618@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/satyam19__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="satyam19__" height="30" width="40" /></a>
+<p align="center">
+Passionate about building scalable web applications, solving algorithmic problems, and designing efficient backend systems.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satyam720&show_icons=true&locale=en&layout=compact" alt="satyam720" /></p>
+## 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satyam720&show_icons=true&locale=en" alt="satyam720" /></p>
+- 💼 Software Engineer with **3+ years of experience**
+- 🚀 Working on large-scale consumer web applications at **ValueLabs** for **Shutterfly**
+- ⚙️ Experienced in **JavaScript, Backbone.js, React, Node.js and MongoDB**
+- 📈 Interested in **Backend Development, System Design and Performance Optimization**
+- 🤖 Worked on AI-powered workflows by integrating Machine Learning services into production applications
+- 📚 Currently learning **Advanced Node.js, MongoDB Aggregation, Microservices and System Design**
+- 🧩 Solving **Data Structures & Algorithms** regularly
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+- JavaScript
+- C++
+- HTML5
+- CSS3
+
+### Frontend
+
+- React
+- Backbone.js
+- jQuery
+- Fabric.js
+
+### Backend
+
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
+
+### Testing
+
+- Playwright
+- Jasmine
+
+### Tools
+
+- Git
+- GitHub
+- Chrome DevTools
+- Splunk
+- ContentSquare
+- Claude CLI
+- GitHub Copilot
+
+---
+
+## 🚀 Featured Projects
+
+### 📚 Student Management API
+
+REST API built using **Node.js, Express and MongoDB**
+
+Features
+
+- Student Management
+- Teacher Management
+- Subject Management
+- Class Management
+- Marks Management
+- MongoDB Aggregation Pipelines
+- Analytics APIs
+- Validation using Mongoose Middleware
+
+Implemented APIs like
+
+- Class-wise Subject Average
+- Highest Scoring Subjects
+- Group Students by Class
+- Dynamic Filtering
+- Aggregation Reports
+
+**Tech:** Node.js • Express • MongoDB • Mongoose
+
+---
+
+### 🛍 Product Management API
+
+Backend API demonstrating scalable MongoDB schema design.
+
+Features
+
+- Categories & Subcategories
+- Product CRUD
+- Dynamic Filters
+- Query Builder
+- Schema Validation
+- Mongoose Middleware
+- Referential Integrity
+
+---
+
+### 🎨 Photo Product Builder
+
+Worked on Shutterfly's online photo personalization platform.
+
+Highlights
+
+- Interactive Canvas Editing
+- Performance Optimizations
+- Canvas Rendering Improvements
+- AI Workflow Integration
+- Save Recovery
+- Project Import
+- Page Management
+
+---
+
+## 📈 Current Focus
+
+- Advanced MongoDB Aggregation
+- System Design
+- Microservices
+- AWS
+- Backend Performance
+- Data Structures & Algorithms
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark" />
+
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Node.js
+- MongoDB Aggregation Framework
+- Redis
+- Docker
+- Microservices
+- AWS
+
+---
+
+## 📫 Connect With Me
+
+- 📧 psatyam1618@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/satyam-pandey-8636001b0/
+
+---
+
+⭐ *Always interested in building scalable systems, improving application performance and continuously learning new technologies.*
